@@ -1,0 +1,78 @@
+body {
+    font-family: 'Figtree', sans-serif;
+    background-color: hsl(47, 88%, 63%);
+}
+
+.section img {
+    width: 370px;
+    border: 0px solid transparent;
+    border-radius: 10px 10px 10px 10px;
+    padding-top: 50px;
+    margin-top: -15px;
+}
+
+.section {
+    text-align: center;
+    background-color: hsl(0, 0%, 100%);
+    width: 400px;
+    margin: 250px auto;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 10px 10px hsl(0, 0%, 7%);
+    border: 1.5px solid hsl(0, 0%, 7%);
+}
+
+.Learning {
+    background-color: hsl(47, 88%, 63%);
+    text-align: left;
+    width: 100px;
+    margin-left: 17px;
+    font-weight: bold;
+    padding-left: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+}
+
+.Date {
+    text-align: left;
+    margin-left: 17px;
+    font-weight: 600;
+}
+
+.htmlandcss {
+    text-align: left;
+    margin-left: 17px;
+    font-weight: bolder;
+    font-size: 25px;
+    margin-top: -5px;
+    transition: 0.3s;
+}
+
+.htmlandcss:hover {
+    color: hsl(47, 88%, 63%);
+}
+
+.text {
+    color: hsl(0, 0%, 50%);
+    text-align: left;
+    margin-top: -15px;
+    margin-left: 17px;
+}
+
+.author {
+    text-align: left;
+    margin-left: 17px;
+    font-weight: bold;
+}
+
+.profile img {
+    width: 40px;
+    height: 35px;
+    margin-top: -40px;
+    margin-left: 17px;
+}
+
+.profile {
+    display: flex;
+    margin-bottom: 20px;
+}
